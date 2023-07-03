@@ -30,4 +30,5 @@ Within the bot program, the API action will return the result in the form of an 
 ![image](https://github.com/eglopez07/Discord-MediaWiki-API-Bot/assets/9082653/48bfe697-c4e1-4a40-87fd-5eef71f86372)
 
 To compare, [this link](https://wiki.gbl.gg/w/Special:CargoQuery?title=Special%3ACargoQuery&tables=UNICLR_MoveData%2C+&fields=UNICLR_MoveData.moveId%2C+UNICLR_MoveData.damage%2C+&where=UNICLR_MoveData.moveId%3D%22na_5a%22&join_on=&group_by=&having=&order_by%5B0%5D=&order_by_options%5B0%5D=ASC&limit=&offset=&format=) shows the result of the exact same query as above. As of 07/03/2023, the results should be identical.
+
 ![image](https://github.com/eglopez07/Discord-MediaWiki-API-Bot/assets/9082653/7fbe13c7-754f-48ae-8fb1-9b3fe908e0ef)
